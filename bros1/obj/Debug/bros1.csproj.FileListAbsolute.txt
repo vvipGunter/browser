@@ -1,0 +1,18 @@
+H:\browser\bros1\bros1\bin\Debug\bros1.exe
+H:\browser\bros1\bros1\bin\Debug\bros1.pdb
+H:\browser\bros1\bros1\obj\Debug\ResolveAssemblyReference.cache
+H:\browser\bros1\bros1\obj\Debug\bros1.Form1.resources
+H:\browser\bros1\bros1\obj\Debug\bros1.Properties.Resources.resources
+H:\browser\bros1\bros1\obj\Debug\bros1.csproj.GenerateResource.Cache
+H:\browser\bros1\bros1\obj\Debug\bros1.exe
+H:\browser\bros1\bros1\obj\Debug\bros1.pdb
+C:\Documents and Settings\Administrator\桌面\browser\bros1\bros1\obj\Debug\bros1.exe
+C:\Documents and Settings\Administrator\桌面\browser\bros1\bros1\bin\Debug\bros1.exe
+C:\Documents and Settings\Administrator\桌面\browser\bros1\bros1\bin\Debug\bros1.pdb
+C:\Documents and Settings\Administrator\桌面\browser\bros1\bros1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\browser\bros1\bros1\obj\Debug\bros1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\browser\bros1\bros1\obj\Debug\bros1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\browser\bros1\bros1\obj\Debug\bros1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\browser\bros1\bros1\obj\Debug\bros1.pdb
+D:\浏览器 全集\browser\bros1\bros1\obj\Debug\bros1.exe
+D:\浏览器 全集\browser\bros1\bros1\obj\Debug\bros1.pdb
